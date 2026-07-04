@@ -1,5 +1,5 @@
 # 💫 About Me:
-* 🔭 Currently working on Machine Learning, NLP, Generative AI, and RAG-based applicationsFront-end devlopment(HTML, CSS, Java-Script), WordPress.<br>* 👯 Open to collaborating on AI, Machine Learning, Data Science, Open Source projects and WordPress.<br>* 🤝 Seeking opportunities to contribute to real-world AI products and scalable ML systems.<br>* 🌱 Currently learning Transformers, LLMs, Agentic AI, RAG, and AI Engineering.<br>* 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Data Science, SQL, Power BI, AI Development and Wordpress.<br>* ⚡ Fun fact: I enjoy transforming AI concepts into practical projects and learning by building end-to-end solutions.
+* 🔭 Currently working on Machine Learning, NLP, Generative AI, and RAG-based applicationsFront-end devlopment(HTML, CSS, Java-Script), WordPress.<br> * 👯 Open to collaborating on AI, Machine Learning, Data Science, Open Source projects and WordPress.<br>* 🤝 Seeking opportunities to contribute to real-world AI products and scalable ML systems.<br>* 🌱 Currently learning Transformers, LLMs, Agentic AI, RAG, and AI Engineering.<br>* 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Data Science, SQL, Power BI, AI Development and Wordpress.<br>* ⚡ Fun fact: I enjoy transforming AI concepts into practical projects and learning by building end-to-end solutions.
 
 
 ## 🌐 Socials:
